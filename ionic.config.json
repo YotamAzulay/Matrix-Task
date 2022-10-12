@@ -1,0 +1,7 @@
+{
+  "name": "matrix-task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
